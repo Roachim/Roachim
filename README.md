@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roachim
-- 👀 I’m interested in Videogames. Design, storytelling, graphics, coding.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on most anything videogame oriented.
+- 👀 I’m interested in design, storytelling, graphics, coding.
+- 🌱 I’m currently learning code.
+- 💞️ I’m looking to collaborate on many things!
 - 📫 How to reach me: E-Mail and phone :)
 
 <!---
